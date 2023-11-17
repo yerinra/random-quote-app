@@ -1,0 +1,32 @@
+/* .qContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+
+  padding: 2rem;
+}
+
+.title {
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.body {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+.catBtn {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.sentence {
+  background-color: #ffbbc6;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+} */
